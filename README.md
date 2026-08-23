@@ -1,5 +1,15 @@
 ## Hi there 👋
+> WHOAMI
+## PRANABKUMARNEOGI
+2 M's are very important, MIND and MONEY
 
+---
+
+> GITHUB STATS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&bg_color=0D1117&title_color=FFA500&text_color=A9A9A9&icon_color=FFA500&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&bg_color=0D1117&title_color=FFA500&text_color=A9A9A9&layout=compact" width="48%" />
+</p>
 <!--
 **PRANABKUMARNEOGI/PRANABKUMARNEOGI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
