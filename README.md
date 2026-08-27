@@ -1,7 +1,7 @@
 ## Hi there 👋
 > WHOAMI
 ## PRANABKUMARNEOGI
-2 M's are very important, MIND and MONEY
+2 M's are very important, MIND and Mental
 
 ---
 
